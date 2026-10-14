@@ -28,7 +28,7 @@ A custom Home Assistant integration for First Alert Safe & Sound smoke/CO detect
 
 1. Open HACS in Home Assistant
 2. Click the three dots menu → Custom repositories
-3. Add `https://github.com/aidenmitchell/ha-resideo-firstalert` with category "Integration"
+3. Add `https://github.com/rheeloaded/ha-resideo-firstalert` with category "Integration"
 4. Search for "First Alert by Resideo" and install
 5. Restart Home Assistant
 
